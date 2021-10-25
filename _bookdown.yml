@@ -1,0 +1,5 @@
+book_filename: "biol-1001"
+language:
+  ui:
+delete_merged_file: true
+output_dir: "docs"

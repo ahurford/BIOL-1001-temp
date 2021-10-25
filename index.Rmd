@@ -1,0 +1,36 @@
+--- 
+title: "BIOL 1001 - Quantitative skills"
+site: bookdown::bookdown_site
+output: bookdown::gitbook #bookdown::html_document2
+documentclass: book
+bibliography: [references.bib]
+biblio-style: apalike
+link-citations: false 
+github-repo: ahurford/
+---
+
+# Learning to use R and RStudio
+
+We are increasing the focus on quantitative skills in our Biology curriculum, in response to changing demands and emphasis within the field of biology itself. In first year biology (BIOL 1001/1002) we are introducing students to R software and basic statistical concepts.
+
+The [quantitative training guide](https://ahurford.github.io/quant-guide-all-courses/) has been writing to teach MUN biology students R coding to build a foundation for more advanced quantitative analysis of data in upper year Biology courses. We anticipate that this guide will also be a useful resource manual that you will refer back to as you use R in your future courses.
+
+1. Read [Introduction](https://ahurford.github.io/quant-guide-all-courses/). As you read through the next sections, if you encounter a word you do not understand you may wish to consult the [Glossary](https://ahurford.github.io/quant-guide-all-courses/glossary.html).
+
+2. Follow the steps in [R and RStudio](https://ahurford.github.io/quant-guide-all-courses/install.html) to install R and RStudio. If you are having issues with installing the software, check the [Frequently Asked Questions]([https://ahurford.github.io/quant-guide-all-courses/faq.html).
+
+3. Read [Finding your way around RStudio](https://ahurford.github.io/quant-guide-all-courses/rstudio.html). Have your RStudio software open.
+
+ - When you encounter **TRY IT!** or Courier font text in a grey box, this is an example of code that we want you to try in RStudio. Note that you should type the code exactly as it is written.
+ 
+ - When you encounter EXERCISE or **HAND IN** this is a question that your laboratory instructor may ask you to complete and hand in.
+ 
+ - You may wish to re-size the windows on your computer to view both the quantitative training guide and the RStudio software, or you may wish to view the training guide on a tablet, with the software open on your computer.
+
+4. Work through [Introduction to R](https://ahurford.github.io/quant-guide-all-courses/rintro.html). We will sometimes give you only part of the code, or we will give code that has a deliberate mistake in it. This is not to frustrate you - rather it is a way for you to start to develop your problem solving skills. Read the text before and after the example code carefully for clues as to what you should do.
+
+5. Proceed through the sections as assigned by your lab instructor. 
+
+Expect to get stuck. This is normal when learning a new skill. Everyone who uses R, including professionals who have used it for years, gets error messages and have bugs in their code. You might look for help in [Getting help](https://ahurford.github.io/quant-guide-all-courses/help.html) or ask for help from an instructor as specified in section \@ref(howtoask).
+
+Once you've finished the first-year labs, don't forget that you have this resource. Whenever you practice using R you will get better at it. If you haven't used it for a while, your skills get rusty, but by reviewing the relevant sections of the [quantitative training guide](https://ahurford.github.io/quant-guide-all-courses/) you will quickly be able to catch up. Before you know it, you will be confidently doing quantitative work in R, which will increase your knowledge, enhance your ability to do advanced biology work, and give you a marketable skill in the work world. 
